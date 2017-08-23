@@ -32,7 +32,7 @@ Current Status
 --------------
 
 Pygame_sdl2 builds and runs on Windows, Mac OS X, and Linux, with a useful
-subset of the pygame API working. While not as well documented, it has also
+subset of the pygame API working. While not as well documented, it can also
 run on Android, iOS, and inside the Chrome browser. The following modules
 have at least some implementation:
 
